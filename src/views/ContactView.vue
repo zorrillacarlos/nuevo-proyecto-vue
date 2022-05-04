@@ -1,8 +1,8 @@
 <template>
-  <div class="contact">
+  <div class="contact container text-center mb-5">
     <h1>This is an Contact page</h1>
   </div>
-  <Accordion />
+  <Accordion class="mb-5"/>
 </template>
 
 <script>
